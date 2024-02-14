@@ -107,7 +107,7 @@
     }
     .about-content-left,
     .about-content-right {
-        padding: 0 15px;
+        padding: 5px 15px;
     }
     .about-img { display: none; }
     .about-content-left h2{ 
