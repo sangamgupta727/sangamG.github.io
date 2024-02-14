@@ -244,6 +244,7 @@ width: 100% !important;
 }
   .head-top {
     padding-top: 18% !important;
+    font-size: 30px !important;
 }
 
 /******************* Hero section ****************/
@@ -253,7 +254,7 @@ width: 100% !important;
 }
 .hero-section {
     background-color: #ffc10f;
-    height: 450px !important;
+    height: 442px !important;
     position: relative;
 }
 .hero-content {
